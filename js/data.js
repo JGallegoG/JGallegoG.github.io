@@ -41,7 +41,7 @@ const proyectos = [
         titulo: "Glocery-Store",
         descripcion: "Una sección de header, de interfaz muy clara con barra de navegación e información sobre la actividad a desempeñar.",
         imagen: "../img/Glocery-store.jpg",
-        link: "https://jgallegog.github.io/glocery-store/index.html",
+        link: "https://jgallegog.github.io/glocery_store/index.html",
         tecnologias: ['HTML', 'CSS', 'SASS']
     },
     {
