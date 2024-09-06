@@ -1,62 +1,48 @@
 // objeto que contiene los datos que vamos a utilizar dinamicamente
 const proyectos = [
     {
-        titulo: "Landing page",
-        descripcion: "Un diseño limpio y minimalista aporta una experiencia visual agradable e intuitiva.",
-        imagen: "../img/ejemplo1.jpg",
-        link: "http://www.google.es",
-        tecnologias: ['HTML', 'CSS', 'javascript'],
+        titulo: "App del tiempo",
+        descripcion: "Conoce la situación climática de las ciudades del mundo en cada momento.",
+        imagen: "../img/clima-app.png",
+        link: "https://github.com/JGallegoG/app-clima/index.html",
+        tecnologias: ['HTML', 'CSS', 'javascript', 'React'],
 
     },
     {
         titulo: "Header-business-agency",
         descripcion: "Una sección de header, de interfaz muy clara con barra de navegación e información sobre la actividad a desempeñar.",
         imagen: "../img/bussines-agency.jpg",
-        link: "http://www.google.es",
+        link: "https://github.com/JGallegoG/header-business-agency/index.html",
         tecnologias: ['HTML', 'CSS']
     },
     {
-        titulo: "Simple Landing Page",
-        descripcion: "La visibilidad web no tiene por qué ser costosa, puedes dar visibilidad a tu negocio de manera sencilla y eficaz",
-        imagen: "../img/Crew.jpg",
-        link: "http://www.google.es",
-        tecnologias: ['HTML', 'CSS']
+        titulo: "App movies",
+        descripcion: "Encuentra tus películas favoritas dentro de un amplio catálogo. ¿Que película quieres buscar?",
+        imagen: "../img/movie-example.png",
+        link: "https://github.com/JGallegoG/movies-app/index.html",
+        tecnologias: ['HTML', 'CSS', 'Javascript', 'React']
     },
     {
         titulo: "Creative-agency",
         descripcion: "Una sección de header, de interfaz muy clara con barra de navegación e información sobre la actividad a desempeñar.",
         imagen: "../img/Creative-agency1.jpg",
-        link: "http://www.google.es",
+        link: "https://github.com/JGallegoG/header-creative-agency/index.html",
         tecnologias: ['HTML', 'CSS']
     },
     {
         titulo: "Coworking-Space",
         descripcion: "Una sección de header, de interfaz muy clara con barra de navegación e información sobre la actividad a desempeñar.",
         imagen: "../img/coworking-space.jpg",
-        link: "http://www.google.es",
+        link: "https://github.com/JGallegoG/header-coworking-space/index.html",
         tecnologias: ['HTML', 'CSS'],
 
-    },
-    {
-        titulo: "Web venta de entradas",
-        descripcion: "Un diseño minimalista y visual hacen que la experienca de comprar entradas sea muy intuitiva y sencilla.",
-        imagen: "../img/music-page.jpg",
-        link: "http://www.google.es",
-        tecnologias: ['HTML', 'CSS']
-    },
-    {
-        titulo: "Layout",
-        descripcion: "Composición adaptable a multiples dispositivos, con un aspecto moderno y visual.",
-        imagen: "../img/layout.jpg",
-        link: "http://www.google.es",
-        tecnologias: ['HTML', 'CSS']
     },
     {
         titulo: "Glocery-Store",
         descripcion: "Una sección de header, de interfaz muy clara con barra de navegación e información sobre la actividad a desempeñar.",
         imagen: "../img/Glocery-store.jpg",
-        link: "http://www.google.es",
-        tecnologias: ['HTML', 'CSS']
+        link: "https://jgallegog.github.io/glocery-store/index.html",
+        tecnologias: ['HTML', 'CSS', 'SASS']
     },
     {
         titulo: "Porfolio Web",
