@@ -62,7 +62,7 @@ const proyectos = [
         titulo: "Porfolio Web",
         descripcion: "Un diseño atractivo que permite presentar tus diferentes trabajos y habilidades.",
         imagen: "../img/porfolio-web.jpg",
-        link: "http://www.google.es",
+        link: "https://jgallegog.github.io/porfolio_landing/index.html",
         tecnologias: ['HTML', 'CSS','Javascript']
     },
 
